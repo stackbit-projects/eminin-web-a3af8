@@ -21,7 +21,7 @@ email = "eminin_mail@email.com"
   numberOfProjectsToShow = 3
   localTime = true
   timeZone = "Europe/Berlin"
-  timeFormat = "en-US"
+  timeFormat = "de-DE"
 
   [params.projects]
   useTwoColumns = false
