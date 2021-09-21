@@ -10,7 +10,7 @@ favicon = "/img/fav.ico"
 showRSSButton = false
 fadeIn = true
 fadeInIndex = false
-dateFormat = "2 Jan 2, 2006"
+dateFormat = "2 Jan, 2006"
 email = "youremail@email.com"
 
   [params.home]
