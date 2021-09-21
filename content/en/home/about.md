@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: "profile.jpg"
+image: "emina.gif"
 weight: 8
 ---
 
