@@ -5,7 +5,7 @@ themesDir = "themes"
 publishDir = "public"
 
 [params]
-themeStyle = "auto"
+themeStyle = "light"
 favicon = "/img/fav.ico"
 showRSSButton = false
 fadeIn = true
