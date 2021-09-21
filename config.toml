@@ -14,7 +14,7 @@ dateFormat = "2 Jan, 2006"
 email = "eminin_mail@email.com"
 
   [params.home]
-  introHeight = "fullheight"
+  introHeight = "medium"
   showLatest = true
   showAllPosts = false
   allPostsArchiveFormat = true
