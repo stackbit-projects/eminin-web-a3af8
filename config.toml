@@ -20,7 +20,7 @@ email = "eminin_mail@email.com"
   allPostsArchiveFormat = true
   numberOfProjectsToShow = 3
   localTime = true
-  timeZone = "America/Los_Angeles"
+  timeZone = "Europe/Berlin"
   timeFormat = "en-US"
 
   [params.projects]
