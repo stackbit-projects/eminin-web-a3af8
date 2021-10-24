@@ -3,6 +3,4 @@ title: "Writing"
 weight: 3
 ---
 
-Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop. Latte instant black extra aroma, instant, extra robusta variety skinny shop aged cup ristretto foam cortado. Bar galão skinny saucer est affogato sugar caffeine chicory sugar coffee, seasonal barista french press acerbic in chicory robust.
+Schema therapy is an approach that combines elements of different approaches and theories, such as cognitive-behavioral therapy, psychoanalysis, attachment theory, transactional analysis. The main assumption from which the schema therapy starts is that the emotional needs of a child were not adequately met. Due to unmet children's needs, different types of schemes are developed that are maintained during adulthood, and they involve negative behavioral patterns and interaction with the environment. Built schemes or patterns have a role to reduce emotional stress, but can most often cause additional difficulties.
