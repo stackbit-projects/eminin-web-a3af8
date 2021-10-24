@@ -1,5 +1,5 @@
 ---
-title: "Photography"
+title: "Cognitive-behavioral therapy"
 weight: 1
 ---
 
