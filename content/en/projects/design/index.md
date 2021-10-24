@@ -1,5 +1,5 @@
 ---
-title: "Design"
+title: "ACT (Acceptance and Commitment Therapy)"
 weight: 2
 resources:
     - src: plant.jpg
