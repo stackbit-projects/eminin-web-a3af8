@@ -8,6 +8,6 @@ To make an appointment or ask a question related to counseling, you can contact 
 
 [+387 61 384 396](tel:+38761384396) (by Viber)
 
-+49 177 164 89 23 [+49 177 164 89 23](tel:+49177 164 89 23)
++49 177 164 89 23 [+49 177 164 89 23](tel:+491771648923)
 
 or by e-mail: osmanovice@yahoo.com
