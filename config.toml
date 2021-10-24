@@ -11,7 +11,7 @@ showRSSButton = false
 fadeIn = true
 fadeInIndex = false
 dateFormat = "2 Jan, 2006"
-email = "eminin_mail@email.com"
+email = "osmanovice@yahoo.com"
 
   [params.home]
   introHeight = "medium"
