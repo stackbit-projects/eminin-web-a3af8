@@ -47,7 +47,7 @@ email = "osmanovice@yahoo.com"
   icon_pack = "fab"
 
   [[params.social]]
-  url = "mailto:youremail@email.com"
+  url = "mailto:osmanovice@yahoo.com"
   icon = "paper-plane"
   icon_pack = "fas"
 
