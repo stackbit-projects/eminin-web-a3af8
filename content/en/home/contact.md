@@ -1,5 +1,5 @@
 ---
-title: "How to schedule an appointment? What does the counseling look like?"
+title: "Contact"
 ---
 
 In the Contact section of **Introduction**, you may optionally display the current time in your preferred timezone.
