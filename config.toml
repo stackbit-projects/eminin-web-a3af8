@@ -44,13 +44,7 @@ email = "osmanovice@yahoo.com"
   [[params.social]]
   url = "mailto:osmanovice@yahoo.com"
   icon = "paper-plane"
-  icon_pack = "fas"
-
-  [[params.social]]
-  url = "https://mastodon.social/"
-  icon = "mastodon"
-  icon_pack = "fab"
-  html_attributes = 'rel="me"'
+  icon_pack = "fas"'
 
 [taxonomies]
 tag = "tags"
