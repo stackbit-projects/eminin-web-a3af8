@@ -17,3 +17,7 @@ or by e-mail: osmanovice@yahoo.com
 - We always start with a 90-minute session, which gives us enough time to get to know each other, discuss the problem which concerns you, and set the treatment goals. Other sessions last 60 minutes.
 - During the second and third session, we continue to meet and define goals. We work on creating a counseling plan based on your goals and we start acomplishing it. During the other sessions, we continue to work according to the agreed plan. You decide when you want to finish counseling.
 - At the beginning of counseling, I usually recommend sessions once a week; during the later phase of counseling we can arrange sessions twice a month.
+
+Counseling price
+Individual counseling: 70 euros per 60-minute counseling session
+Unfortunately, I am not able to accept regular health insurance. Payment is only possible privately
