@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: "profile.jpng"
+image: "profile.png"
 weight: 8
 ---
 
