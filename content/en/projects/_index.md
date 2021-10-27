@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "My approach"
 weight: 10
 ---
 
