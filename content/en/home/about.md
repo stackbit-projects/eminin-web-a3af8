@@ -8,10 +8,11 @@ The reasons why clients decide to try counseling can be different. Reasons can c
 
 ##### These are some of the most common reasons clients do the counseling:
 
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+- anxiety
+- depression
+- stress
+- trauma
+- grief
+- anger
+- difficulties in partnerships and other relationships
+
