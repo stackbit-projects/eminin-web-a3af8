@@ -1,5 +1,5 @@
 ---
-title: "Lorem Ipsum"
+title: "About Me"
 weight: 30
 ---
 
