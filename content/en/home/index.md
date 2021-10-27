@@ -3,4 +3,4 @@ title: "Hi, I'm Emina"
 headless: true
 ---
 
-Your psychologist counsellor
+Your psychologist and counsellor
